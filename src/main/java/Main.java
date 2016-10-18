@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         int max = 10;
-        List<Integer> listaPrimos = new ArrayList<>();
+        List<Integer> listaPrimos = new ArrayList();
         listaPrimos.add(2);
 
         for (int i = 3; i <= max; i++) {
